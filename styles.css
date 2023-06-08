@@ -1,0 +1,50 @@
+
+body {
+    background-color: #575A5E;
+
+}
+li  {
+    background-color: orange;
+}
+
+
+
+
+
+.container-fluid {
+    background-color: orange;
+}
+
+.nav-link.active{
+    
+    background-color: orange;
+    
+}
+.navbar-toggler:hover {
+    background-color: #575A5E;
+}
+.navbar-toggler{
+    color: rgb(255, 166, 0);
+}
+.offcanvas-header {
+    background-color: orange;
+}
+.offcanvas {
+    color: rgb(255, 255, 255);
+}
+.navbar-brand {
+    color: rgb(255, 255, 255);
+}
+#btn-close {
+    background-color: orange;
+}
+.offcanvas-body {
+    background-color: orange;
+}
+.navbar-toggler:hover {
+    background-color: rgb(255, 255, 255);
+}
+ .btn {
+    background-color: white;
+    color: black;
+ }
