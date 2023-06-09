@@ -7,7 +7,11 @@ li  {
     background-color: orange;
 }
 
-
+p {
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+}
 
 
 
@@ -15,10 +19,15 @@ li  {
     background-color: orange;
 }
 
-.nav-link.active{
+.nav-link{
     
     background-color: orange;
+    color: white;
+ }
     
+
+.active {
+    color: white;
 }
 .navbar-toggler:hover {
     background-color: #575A5E;
@@ -48,3 +57,4 @@ li  {
     background-color: white;
     color: black;
  }
+ 
